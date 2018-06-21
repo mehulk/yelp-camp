@@ -14,3 +14,7 @@
 .delete-form {
     display: inline;
 }
+
+#sameSizeMake{
+    height:175px;
+}
